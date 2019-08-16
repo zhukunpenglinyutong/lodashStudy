@@ -1,6 +1,5 @@
 # lodashjs学习实现笔记
 
-
 ---
 
 <p align="center">
@@ -10,8 +9,6 @@
     <a href="javascript:;"><img src="https://img.shields.io/github/commit-activity/m/zhukunpenglinyutong/lodashStudy" alt="每月提交数"></a>
     <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565933144531&di=84023cca6ef9e150ee85ba2edfc8d3b1&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-22943c4e91269c20e36f2115be4e272b_r.jpg" />
 </p>
-
-
 
 
 ## 🏅前言
@@ -24,10 +21,10 @@
 ## 🎖学习计划
 
 - [ ] 2019.8.16
-    - [x] 1.chunk.js
-    - [x] 2.compact.js
-    - [ ] 3.concat.js
-    - [ ] 4.difference.js
+    - [x] 1.chunk.js（数组分隔）
+    - [x] 2.compact.js（去除数组中'假'的值）
+    - [x] 3.concat.js（数组，项，合并方法）
+    - [x] 4.difference.js（去除数组的方法，判断依据是传入一个数组作为处理的样本）
     - [ ] 5.differenceBy.js
     - [ ] 6.differenceWith.js
 - [ ] 2019.8.17
@@ -66,5 +63,5 @@ npm run test:c
 
 **更新于 2019.8.16 10:27**
 
-<img src="https://itzkp-1253302184.cos.ap-beijing.myqcloud.com/github%E5%9B%BE%E7%89%87/lodashStudy/2.%E6%B5%8B%E8%AF%95%E7%8E%B0%E7%8A%B61034.png" />
+<img src="https://itzkp-1253302184.cos.ap-beijing.myqcloud.com/github%E5%9B%BE%E7%89%87/lodashStudy/2.%E6%B5%8B%E8%AF%95%E7%8E%B0%E7%8A%B61513.png" />
 
