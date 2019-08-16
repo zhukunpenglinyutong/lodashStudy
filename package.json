@@ -1,0 +1,29 @@
+{
+  "name": "lodashstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:w": "jest --watch",
+    "test:c": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhukunpenglinyutong/lodashStudy.git"
+  },
+  "author": "Zhu Kunpeng <270750933@qq.com> (itzkp.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhukunpenglinyutong/lodashStudy/issues"
+  },
+  "homepage": "https://github.com/zhukunpenglinyutong/lodashStudy#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "jest": "^24.8.0"
+  }
+}
