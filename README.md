@@ -5,8 +5,10 @@
 
 <p align="center">
     <a href="javascript:;"><img src="https://img.shields.io/github/license/zhukunpenglinyutong/notes.svg" alt="MIT"></a>
-    <a href="javascript:;"><img src="https://img.shields.io/github/last-commit/zhukunpenglinyutong/Juejin-Plugin" alt="最后一次提交"></a>
-    <img src="https://itzkp-1253302184.cos.ap-beijing.myqcloud.com/github%E5%9B%BE%E7%89%87/lodashStudy/1.GitHub%E9%A6%96%E9%A1%B5%E5%9B%BE%E7%89%87.png" />
+    <a href="javascript:;"><img src="https://img.shields.io/github/languages/code-size/zhukunpenglinyutong/lodashStudy" alt="文件大小"></a>
+    <a href="javascript:;"><img src="https://img.shields.io/github/last-commit/zhukunpenglinyutong/lodashStudy" alt="最后一次提交"></a>
+    <a href="javascript:;"><img src="https://img.shields.io/github/commit-activity/m/zhukunpenglinyutong/lodashStudy" alt="每月提交数"></a>
+    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565933144531&di=84023cca6ef9e150ee85ba2edfc8d3b1&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-22943c4e91269c20e36f2115be4e272b_r.jpg" />
 </p>
 
 
