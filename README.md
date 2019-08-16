@@ -25,8 +25,10 @@
     - [x] 2.compact.js（去除数组中'假'的值）
     - [x] 3.concat.js（数组，项，合并方法）
     - [x] 4.difference.js（去除数组的方法，判断依据是传入一个数组作为处理的样本）
-    - [ ] 5.differenceBy.js
-    - [ ] 6.differenceWith.js
+    - [ ] 5.differenceBy.js（暂时还没想到怎么写，主要是没看懂）
+    - [ ] 6.differenceWith.js（暂时还没想到怎么写，主要是没看懂）
+    - [x] 7.drop.js（从前往后去除数组的几项）
+    - [x] 8.dropRight.js（从后往前去除数组的几项）
 - [ ] 2019.8.17
 
 ---
@@ -63,5 +65,5 @@ npm run test:c
 
 **更新于 2019.8.16 10:27**
 
-<img src="https://itzkp-1253302184.cos.ap-beijing.myqcloud.com/github%E5%9B%BE%E7%89%87/lodashStudy/2.%E6%B5%8B%E8%AF%95%E7%8E%B0%E7%8A%B61513.png" />
+<img src="https://itzkp-1253302184.cos.ap-beijing.myqcloud.com/github%E5%9B%BE%E7%89%87/lodashStudy/2.%E6%B5%8B%E8%AF%95%E7%8E%B0%E7%8A%B62240.png" />
 
